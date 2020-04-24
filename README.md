@@ -1,6 +1,6 @@
 ## Cash Sistema para Controle Financeiro
 
-Sistema para controle financeiro, em sua primeira versão, apresentará funções que possibilitam organizar despesar, e verificar dentro de um determinado período, seus gastos e suas respectivas datas e descrições.
+Sistema para controle financeiro, em sua primeira versão, apresentará funções que possibilitam organizar despesas, e verificar dentro de um determinado período, seus gastos e suas respectivas datas e descrições.
 
 Nessa primeira versão em desenvolvimento, será desenvolvido as seguintes telas:
 
