@@ -1,0 +1,16 @@
+.seletor-para-algum-widget {
+    box-sizing: content-box;
+  }
+
+img .logo-index{
+    width:50px;
+    height:50px;
+}
+
+body{
+    background-color: #2F303A !important;    
+}
+
+.navbar{
+    background-color: #2F303A;    
+}
